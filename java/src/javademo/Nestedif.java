@@ -7,12 +7,12 @@ public class Nestedif {
 		int j=20;
 		int k=30;
 		
-		if( i==11)
+		if( i==109)
 		{
 			System.out.println("first conditon was met");
 			System.out.println("the value of i is="+i);
 		}
-			if( j==20)
+			if( j==206)
 			{
 				System.out.println("value of  j is 20");
 			}
